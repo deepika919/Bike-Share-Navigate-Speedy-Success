@@ -1,4 +1,4 @@
-# Bike-Share-Navigate-Speedy-Success
+# Bike-Share-Navigate-Speedy-Success (Google Data Analytics Capstone)
 
 ## Overview
 This repository contains Python code for analyzing the Cyclistic Bikes dataset. The analysis covers various aspects, including data cleaning, exploration, and insights into user behavior. The goal is to provide compelling data insights to support decision-making for marketing strategies.
